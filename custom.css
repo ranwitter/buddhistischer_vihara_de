@@ -1,0 +1,17 @@
+div.header {
+	background: transparent url(img/bannerweb1920x265.jpg) no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	border-bottom: 0px solid white;
+	padding-bottom: 0px;
+	min-height: 265px;
+}
+
+div.rwi-sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
